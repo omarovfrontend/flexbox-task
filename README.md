@@ -1,3 +1,3 @@
 # flexbox-task
 
-Demo - https://omarov-frontend.github.io/flexbox-task/
+Demo - https://omarovfrontend.github.io/flexbox-task/
